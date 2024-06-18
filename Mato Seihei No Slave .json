@@ -10,7 +10,14 @@
       "volume": "12",
       "last_updated": "1718679969",
       "groups": {
-        "": "/proxy/api/https://imgur.com/a/AqFfPIa"
+        "": [
+          "https://i.imgur.com/M17WbYa.jpeg",
+          "https://i.imgur.com/1HUDiYi.png",
+          "https://i.imgur.com/Yy6pR7x.png",
+          "https://i.imgur.com/yUsjZD0.png",
+          "https://i.imgur.com/kdvp275.png",
+          "https://i.imgur.com/9mVK8No.png"
+        ]
       }
     }
   }
