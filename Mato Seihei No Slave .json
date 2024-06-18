@@ -3,6 +3,17 @@
   "description": "",
   "artist": "Takemura Youhei",
   "author": "Takahiro",
-  "cover": "",
-  "chapters": {}
+  "cover": "https://mangadex.org/covers/e1e38166-20e4-4468-9370-187f985c550e/2e418d11-579c-4078-a960-60781115efc9.jpg",
+  "chapters": {
+    "98.6": {
+      "title": "98.6",
+      "volume": "",
+      "last_updated": "1718672734",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    }
+  }
 }
