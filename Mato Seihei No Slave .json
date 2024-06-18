@@ -1,5 +1,5 @@
 {
-  "title": "Mato Seihei No Slave ",
+  "title": "Mato Seihei No Slave (Español)",
   "description": "",
   "artist": "Takemura Youhei",
   "author": "Takahiro",
@@ -7,10 +7,10 @@
   "chapters": {
     "98.6": {
       "title": "98.6",
-      "volume": "",
+      "volume": "12",
       "last_updated": "1718679969",
       "groups": {
-        "": "https://imgur.com/a/AqFfPIa"
+        "": "/proxy/api/https://imgur.com/a/AqFfPIa"
       }
     }
   }
