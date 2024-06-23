@@ -4,5 +4,20 @@
   "artist": "Takemura Youhei",
   "author": "Takahiro",
   "cover": "https://mangadex.org/covers/e1e38166-20e4-4468-9370-187f985c550e/2e418d11-579c-4078-a960-60781115efc9.jpg",
-  "chapters": {}
+  "chapters": {
+    "65.5": {
+      "title": "Los Sentimientos De Ren",
+      "volume": "",
+      "last_updated": "1719115977",
+      "groups": {
+        "Imgur": [
+          "https://i.imgur.com/nrkiTfl.webp",
+          "https://i.imgur.com/MxikXN1.png",
+          "https://i.imgur.com/pCAE1r7.png",
+          "https://i.imgur.com/BglDO6z.png",
+          "https://i.imgur.com/lqNfm6C.png"
+        ]
+      }
+    }
+  }
 }
