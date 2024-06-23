@@ -4,5 +4,20 @@
   "artist": "Takemura Youhei",
   "author": "Takahiro",
   "cover": "https://mangadex.org/covers/e1e38166-20e4-4468-9370-187f985c550e/2e418d11-579c-4078-a960-60781115efc9.jpg",
-  "chapters": {}
+  "chapters": {
+    "65.5": {
+      "title": "65.5",
+      "volume": "8",
+      "last_updated": "1719116571",
+      "groups": {
+        "Imgur": [
+          "https://i.imgur.com/SGN51FH.png",
+          "https://i.imgur.com/DYe7B1J.png",
+          "https://i.imgur.com/ArobpCP.png",
+          "https://i.imgur.com/h36K2IR.png",
+          "https://i.imgur.com/ermJ18n.png"
+        ]
+      }
+    }
+  }
 }
